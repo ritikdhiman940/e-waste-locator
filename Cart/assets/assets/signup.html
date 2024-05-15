@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register Page</title>
+    <link rel="stylesheet" href="/assets/css/register.css">
+</head>
+<body>
+    <div class="wrapper">
+        <div class="register-details">
+            <div class="register-box">
+                <h2>Register</h2>
+                <form id="registerForm" action="#">
+                    <div class="input-box">
+                        <span class="icon">
+                            <ion-icon name="person"></ion-icon>
+                        </span>
+                        <input type="text" id="username" name="name" required>
+                        <label>Username</label>
+                    </div>
+                
+                    <div class="input-box">
+                        <span class="icon">
+                            <ion-icon name="mail"></ion-icon>
+                        </span>
+                        <input type="email" id="email" name="email" required>
+                        <label>Email</label>
+                    </div>
+                
+                    <div class="input-box">
+                        <span class="icon">
+                            <ion-icon name="lock-closed"></ion-icon>
+                        </span>
+                        <input type="password" id="password" name="password" required>
+                        <label>Password</label>
+                    </div>
+                
+                    <button class="button" type="button" onclick="registerUser()">Register</button>
+                
+                    <div class="login-link">
+                        <p>Already have an account? <a href="/index.html">Login</a></p>
+                    </div>
+                </form>
+                
+            </div>
+        </div>
+        <div class="image-section"></div>
+    </div>
+
+    <script>
+        function registerUser() {
+            // Get input values
+            var username = document.getElementById('username').value;
+            var email = document.getElementById('email').value;
+            var password = document.getElementById('password').value;
+
+            // Create user object
+            var user = {
+                username: username,
+                email: email,
+                password: password
+            };
+
+            // Save user object to local storage
+            localStorage.setItem('user', JSON.stringify(user));
+
+            // Redirect to login page
+            window.location.href = "/index.html";
+        }
+    </script>
+</body>
+</html>

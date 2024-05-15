@@ -1,0 +1,1455 @@
+{
+    "facilities": [
+        {
+            "Name": "E-Waste Recyclers India",
+            "Address": "A-46, near Crowne Plaza, Pocket C, Okhla Phase I, Okhla, New Delhi, Delhi 110020",
+            "Street": "A-46",
+            "Municipality": "near Crowne Plaza",
+            "Categories": "Recycling center, Corporate office",
+            "Phone": "18001025679",
+            "username": "18001025679",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.2793059, 28.5245577]
+            }
+        },
+
+        {
+            "Name": "Namo eWaste Management Ltd.",
+            "Address": "Mile Stone, Faridabad, 14 1, NH-19, Faridabad, Haryana 121003",
+            "Street": "Mile Stone, Faridabad",
+            "Municipality": "14 1, NH-19",
+            "Categories": "Recycling center",
+            "Phone": "08130393629",
+            "username": "08130393629",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.30769, 28.455841]
+            }
+        },
+
+        {
+            "Name": "Greenzon E-waste Recycler Delhi",
+            "Address": "F 509 Deepali Building Nehru Place New Delhi, New Delhi, Delhi 110019",
+            "Street": "F 509 Deepali Building Nehru Place New Delhi",
+            "Municipality": "New Delhi, Delhi 110019",
+            "Categories": "Waste management service",
+            "Phone": "09811206076",
+            "username": "09811206076",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.2527734, 28.548356599999998]
+            }
+        },
+
+        {
+            "Name": "Techchef Ewaste Solutions Pvt Ltd",
+            "Address": "Top Floor, C-61, DDA Sheds, Pocket A, Okhla Phase I, Okhla Industrial Estate, New Delhi, Delhi 110020",
+            "Street": "Top Floor",
+            "Municipality": "C-61",
+            "Categories": "Waste management service",
+            "Phone": "08178022401",
+            "username": "08178022401",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.2748015, 28.5275635]
+            }
+        },
+
+        {
+            "Name": "Rocket Sales",
+            "Address": "Manjusha Building, 604-A, 6th Floor, 57, Nehru Place, New Delhi, Delhi 110019",
+            "Street": "Manjusha Building",
+            "Municipality": "604-A, 6th Floor, 57",
+            "Categories": "Waste management service",
+            "Phone": "08800575430",
+            "username": "08800575430",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.2522347, 28.548843299999998]
+            }
+        },
+        {
+            "Name": "Hindustan E-waste Management Pvt. Ltd.",
+            "Address": "8, Central Rd, Jangpura, Bhogal, New Delhi, Delhi 110014",
+            "Street": "8, Central Rd",
+            "Municipality": "Jangpura, Bhogal",
+            "Categories": "Waste management service",
+            "Phone": "01141553113",
+            "username": "01141553113",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.24938499999999, 28.583346]
+            }
+        },
+        {
+            "Name": "PRO E Waste Recycling",
+            "Address": "Plot no 32, Gharwali Colony, Sector 4, Ballabhgarh, Faridabad, Haryana 121004",
+            "Street": "Plot no 32",
+            "Municipality": "Gharwali Colony, Sector 4, Ballabhgarh",
+            "Categories": "Recycling center, Consultant, Waste management service",
+            "Phone": "09311208103",
+            "username": "09311208103",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.3266007, 28.3427097]
+            }
+        },
+        {
+            "Name": "Auctus E-Recycling Solutions Pvt. Ltd.",
+            "Address": "A-58 Udyog Kendra 1st, Main Surajpur Road, Habibpur, Noida-Greater Noida Expy, Noida, Uttar Pradesh 201301",
+            "Street": "A-58 Udyog Kendra 1st, Main Surajpur Road, Habibpur",
+            "Municipality": "Noida-Greater Noida Expy",
+            "Categories": "Recycling center",
+            "Phone": "18002701719",
+            "username": "18002701719",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.34056609999999, 28.585401599999997]
+            }
+        },
+        {
+            "Name": "AVV E Waste Reprocess Pvt Ltd - e waste recycling in pan india (deals in all types of electrical waste)",
+            "Address": "11, Nehru Ground, New Industrial Twp 1, New Industrial Township, Faridabad, Haryana 121002",
+            "Street": "11",
+            "Municipality": "Nehru Ground, New Industrial Twp 1, New Industrial Township",
+            "Categories": "Recycling center, Recycling drop-off Location",
+            "Phone": "08178164186",
+            "username": "08178164186",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.3024645, 28.3905916]
+            }
+        },
+        {
+            "Name": "Resource E Waste Solution Pvt Ltd",
+            "Address": "Plot No:- 147, 3rd Floor, Patparganj Industrial Area, Delhi, 110092",
+            "Street": "Plot No:- 147, 3rd Floor",
+            "Municipality": "Patparganj Industrial Area",
+            "Categories": "Waste management service, Used computer store",
+            "Phone": "402735",
+            "username": "402735",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.312752, 28.6402528]
+            }
+        },
+        {
+            "Name": "3R Recycler Pvt. Ltd.",
+            "Fulladdress": "502, 5th Floor, DDA Complex, Distt. Center, Laxmi Nagar, New Delhi, Delhi 110092",
+            "Street": "502, 5th Floor, DDA Complex, Distt. Center",
+            "Municipality": "Laxmi Nagar",
+            "Categories": "Recycling center",
+            "Phone": "01143026362",
+            "username": "01143026362",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.2840125, 28.6397341]
+            }
+        },
+        {
+            "Name": "E Waste Recycle Hub",
+            "Fulladdress": "BK-1/160, 1st Floor, Poorbi Shalimar Bag, Delhi 110088",
+            "Street": "BK-1/160, 1st Floor",
+            "Municipality": "Poorbi Shalimar Bag",
+            "Categories": "Recycling center",
+            "Phone": "1800123005566",
+            "username": "1800123005566",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.1683091, 28.7095125]
+            }
+        },
+        {
+            "Name": "E-Waste Recycling in India",
+            "Fulladdress": "Aneja Complex, R-24, Rita Block, Shakarpur, New Delhi, Delhi 110092",
+            "Street": "Aneja Complex",
+            "Municipality": "R-24, Rita Block",
+            "Categories": "Recycling center",
+            "Phone": "09717393992",
+            "username": "09717393992",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.29225149999999, 28.636220299999998]
+            }
+        },
+        {
+            "Name": "HM WASTE MANAGEMENT PVT. LTD",
+            "Fulladdress": "G- 21 bd chambers, Karol Bagh, New Delhi, Delhi 110005",
+            "Street": "G- 21 bd chambers",
+            "Municipality": "Karol Bagh",
+            "Categories": "Recycling center",
+            "Phone": "09999829648",
+            "username": "09999829648",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.19167639999999, 28.653747199999998]
+            }
+        },
+        {
+            "Name": "Bharat Recycling Pvt Ltd",
+            "Fulladdress": "119/1 Gali No. 19, Main Rd, North Ghonda, Delhi, 110053",
+            "Street": "119/1 Gali No. 19",
+            "Municipality": "Main Rd",
+            "Categories": "Recycling center",
+            "Phone": "09009009817",
+            "username": "09009009817",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.2746976, 28.704548199999998]
+            }
+        },
+        {
+            "Name": "RUDRA ENTERPRISES (E-WASTE RECYCLING , INSULATED COPPER WIRE DISPOSAL, HAZARDOUS WASTE DISPOSAL)",
+            "Fulladdress": "Plot No - A-96, Sector - A4, Tronica City, Upsidc Ind Area, Ghaziabad, Uttar Pradesh 201102",
+            "Street": "Plot No - A-96, Sector - A4, Tronica City, Upsidc Ind Area",
+            "Municipality": "Ghaziabad, Uttar Pradesh 201102",
+            "Categories": "Recycling center",
+            "Phone": "07011460401",
+            "username": "07011460401",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.255464, 28.785546999999998]
+            }
+        },
+        {
+            "Name": "Ecoex",
+            "Fulladdress": "Hansalaya Building, 5C, 5th floor, Barakhamba Rd, New Delhi, Delhi 110001",
+            "Street": "Hansalaya Building, 5C, 5th floor",
+            "Municipality": "Barakhamba Rd",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.2257127, 28.628742499999998]
+            }
+        },
+        {
+            "Name": " Green Waves Environmental Solution",
+            "Fulladdress": "M\/s. Green Waves Environmental Solution, Sy. No. 43\/1, Mindi (V), Gajuwaka (M), Visakhapatnam District.",
+            "Street": " Sy. No. 43\/1, Mindi (V), Gajuwaka (M), Visakhapatnam District",
+            "Municipality": " Visakhapatnam District",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 83.21211566807789,17.703622022738436]
+            }
+        },
+        {
+            "Name": "Apna Bhoomi Ewaste Management Services",
+            "Fulladdress": "National Highway 16, Kushalapuram, opp. Navabarath Jn, Srikakulam, Andhra Pradesh 532005.",
+            "Street": "National Highway 16, Kushalapuram",
+            "Municipality": " Navabarath Jn, Srikakulam",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 83.86159905745664,18.293794710195897]
+            }
+        },
+        {
+            "Name": "Veera Waste Management Systems",
+            "Fulladdress": "Plot no 42, Block-D IDA, Auto Nagar, Visakhapatnam, Andhra Pradesh 530012.",
+            "Street": "Block-D IDA, Auto Nagar",
+            "Municipality": " Visakhapatnam, Andhra Pradesh",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [83.18677470074287,17.700297067316782]
+            }
+        },
+        {
+            "Name": "56Q7+47Q Borai Industrial Growth Center",
+            "Fulladdress": "56Q7+47Q, Durg Bypass, Vill, Rasamada, Chhattisgarh 491001",
+            "Street": "56Q7+47Q, Durg Bypass, Vill",
+            "Municipality": "Rasamada, Chhattisgarh",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 81.21300609063383,21.187887347436284]
+            }
+        },
+        {
+            "Name": "Star E Processors",
+            "Fulladdress": "Plot No. 1273, Village Baktara, P.O. Godi Tashil Arang, Dist, Raipur, Chhattisgarh 492101",
+            "Street": "56Q7+47Q, Durg Bypass, Vill",
+            "Municipality": "Rasamada, Chhattisgarh",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [81.83054655774723,21.24053744518627]
+            }
+        },
+        {
+            "Name": "Fozia Traders",
+            "Fulladdress": "J Block, Street Number 8, Chauhan Bangur, Delhi 110053",
+            "Street": "J Block, Street Number 8",
+            "Municipality": "Chauhan Bangur, Delhi",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 77.25967804232846,28.675947358554694]
+            }
+        },
+        {
+            "Name": "Muskan technologies E-waste",
+            "Fulladdress": "Pocket B, B-96, Pocket B, Okhla Phase I, Okhla Industrial Estate, New Delhi, Delhi 110020",
+            "Street": "Pocket B, B-96, Pocket B, Okhla Phase I",
+            "Municipality": "Okhla Industrial Estate, New Delhi",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 77.2818003592333,28.530949003840096]
+            }
+        },
+        {
+            "Name": "Techchef Ewaste Solutions Pvt Ltd",
+            "Fulladdress": "Top Floor, C-61, DDA Sheds, Pocket A, Okhla Phase I, Okhla Industrial Estate, New Delhi, Delhi 110020",
+            "Street": "Top Floor, C-61, DDA Sheds",
+            "Municipality": "Okhla Phase I, Okhla Industrial Estate",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 77.27475858059677,28.52776142617039]
+            }
+        },
+        {
+            "Name": "Group Tenplus",
+            "Fulladdress": "Beth Shalom Abreovaddo, Saligao, Goa 403511",
+            "Street": "Beth Shalom Abreovaddo",
+            "Municipality": "Saligao, Goa ",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 73.78479067411986,15.539916044543528]
+            }
+        },
+        {
+            "Name": " E-coli Waste Management P. Ltd",
+            "Fulladdress": "M\/s. E-coli Waste Management P. Ltd, Plot No.- 90 TO 92 Sabar Industrial Park Pvt. Ltd Vill- Asal Ta-Bhiloda Dist-Sabar kantha",
+            "Street": " Plot No.- 90 TO 92 Sabar Industrial Park Pvt. Ltd ",
+            "Municipality": "Vill- Asal Ta-Bhiloda ",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 73.31730220805225,23.65745618950322]
+            }
+        },
+        {
+            "Name": " Mangalam ECS Environment",
+            "Fulladdress": "M\/s. Mangalam ECS Environment Ltd, ECS House, 11-12 Garden View, Opp. Auda Garden, Sindhu Bhawan road, Off SG Highway-Pakwan Circle, Bodakdev, Ahmedabad 380054",
+            "Street": " 11-12 Garden View, Opp. Auda Garden ",
+            "Municipality": " Bodakdev, Ahmedabad ",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 72.5145202563712,23.040823000444146]
+            }
+        },
+        {
+            "Name": "E- Process House",
+            "Fulladdress": "M\/s. E-Process House, Plot No. 136\/F-1. 2nd Phase, GIDC, Dist Valsad VAPI 396195",
+            "Street": "Plot No. 136\/F-1",
+            "Municipality": " GIDC, Dist Valsad",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 72.94005768032878,20.36351508105979]
+            }
+        },
+        {
+            "Name": "Recotech E waste Management",
+            "Fulladdress": "4V37+3GW, Naka, GIDC, Sachin, Surat, Gujarat",
+            "Street": "4V37+3GW, Naka",
+            "Municipality": " GIDC, Sachin, Surat",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [72.86417304727321,21.102930166856]
+            }
+        },
+        {
+            "Name": "Honey Disposal Store",
+            "Fulladdress": "Plot No:67-68, Jarout Road, Village:Mandour, area, Ambala, Haryana 134003",
+            "Street": "Jarout Road",
+            "Municipality": "Village:Mandour, area, Ambala",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [76.79719819605236,30.4076857052166]
+            }
+        },
+        {
+            "Name": "Exigo Recycling Pvt. Ltd.",
+            "Fulladdress": "Barsat Rd, Cheema Enclave, Noorwala, Panipat, Azizullapur, Haryana 132103",
+            "Street": "Barsat Rd",
+            "Municipality": "Noorwala, Panipat",
+            "Categories": "Waste management service",
+            "Phone": "09650676997",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [76.9929730113175,29.42618938000852]
+            }
+        },
+        {
+            "Name": "Adinath Recyclotronix Pvt. Ltd. (ARTRONIX)",
+            "Fulladdress": "HSIIDC, Plot # 361, Industrial Estate, HSIIDC, Refinery Rd, Panipat, Razapur, Haryana 132103",
+            "Street": "HSIIDC, Plot # 361",
+            "Municipality": " Refinery Rd, Panipat, Razapur",
+            "Categories": "Waste management service",
+            "Phone": "09896992399",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [76.91668033406386,29.468667195266004]
+            }
+        },
+        {
+            "Name": "MSW Plant Rohtak",
+            "Fulladdress": "VHH3+PMM, Sector-21, Rohtak, Haryana 124001",
+            "Street": " Rohtak, Haryana",
+            "Municipality": " Refinery Rd, Panipat, Razapur",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 76.56086683051572,28.883093849556815]
+            }
+        },
+        {
+            "Name": "VRG Group - Dismentling, Scrap & eWaste",
+            "Fulladdress": "National Highway, opp. Shiv Mandir, Gangayal, Jammu, Jammu and Kashmir 180010",
+            "Street": "National Highway, opp. Shiv Mandir",
+            "Municipality": "  Gangayal, Jammu",
+            "Categories": "Waste management service",
+            "Phone": "09906231115",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 74.8647800085335,32.674527079051636]
+            }
+        },
+        {
+            "Name": "Mr. Bashir Ahmad Mir",
+            "Fulladdress": "M\/s. Bashir Enterprises Noorbagh, Srinagar",
+            "Street": "Bashir Enterprises",
+            "Municipality": " Noorbagh",
+            "Categories": "Waste management service",
+            "Phone": "09906231115",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 74.77007388660925,34.10185514021786]
+            }
+        },
+        {
+            "Name": "SIMRAN INFOTECH",
+            "Fulladdress": "SIMALKURI, Jhalbarda, Jharkhand 828134",
+            "Street": "SIMALKURI",
+            "Municipality": " Jhalbarda, Jharkhand",
+            "Categories": "Waste management service",
+            "Phone": "09906231115",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [23.504932151359707, 86.27697115713745]
+            }
+        },
+        {
+            "Name": "Sriram Ecoraksha Computer Services Pvt Ltd",
+            "Fulladdress": "KSSIDC Industrial Estate, B-29, Bommasandra Industrial Area, Bommasandra, Karnataka 560099",
+            "Street": "KSSIDC Industrial Estate, B-29",
+            "Municipality": " Bommasandra, Karnataka",
+            "Categories": "Waste management service",
+            "Phone": "09906231115",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 77.69801599017295,12.81952606544499]
+            }
+        },
+        {
+            "Name": "E-FRIENDLY WASTE RECYCLERS",
+            "Fulladdress": "1st Main Rd, Metro Lay Out, Nayanda Halli, Bengaluru, Karnataka 560039",
+            "Street": "1st Main Rd, Metro Lay Out",
+            "Municipality": "Nayanda Halli, Bengaluru",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 77.52719103100168,12.946980873862985]
+            }
+        },
+        {
+            "Name": "Ecoglobe E-waste Recyclers",
+            "Fulladdress": "#87, 2nd phase, 2nd Sector, industrial area, Bidadi, Karnataka 562109",
+            "Street": "#87, 2nd phase, 2nd Sector",
+            "Municipality": "Bidadi, Karnataka",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.46387799331562,12.799484111390697]
+            }
+        },
+        {
+            "Name": "E Hasiru E Waste Recycling Company",
+            "Fulladdress": "No 168/B, 7th Main Rd, Yeshwanthpur Suburb II Stage, Yesvanpur Surburb, Peenya, Bengaluru, Karnataka 560058",
+            "Street": "No 168/B, 7th Main Rd, Yeshwanthpur Suburb II Stage",
+            "Municipality": "Peenya, Bengaluru",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.52950638514334,13.022628859628071]
+            }
+        },
+        {
+            "Name": "Unique Eco Recycle",
+            "Fulladdress": "26, RD Udyog Nagar, Nemawar Rd, behind Reliance petrol pump, Palda, Indore, Madhya Pradesh 452020",
+            "Street": "RD Udyog Nagar, Nemawar Rd",
+            "Municipality": "Palda, Indore",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 75.96875359404328,22.728118464311365]
+            }
+        },
+        {
+            "Name": "Moonstar  Enterprises  Pvt.  Ltd.",
+            "Fulladdress": "M\/s.  Moonstar  Enterprises  Pvt.  Ltd.,  Plot  No. 24\/A, 24\/D, 24\/A-1, 21\/D, 21\/E, 21\/E-1, Sector-B,Sanwer Road, Industrial Area Indore (MP)",
+            "Street": " Sector-B,Sanwer Road",
+            "Municipality": "Industrial Area Indore ",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [75.84741852662084,22.76693227110828]
+            }
+        },
+        {
+            "Name": "Prometheus Recycling Private Limited - Plant",
+            "Fulladdress": "#800 #801, Land No 786/4, 799/1, Dilawar Ka Pura, Susera, Madhya Pradesh 474005",
+            "Street": " Land No 786/4, 799/1",
+            "Municipality": "Dilawar Ka Pura, Susera, Madhya Pradesh",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 78.16852198976812,26.319627610260756]
+            }
+        },
+        {
+            "Name": "Eco Recycling Limited Facility - Eco House",
+            "Fulladdress": "S. No. 22, H. No. 6 & 7, Bhoipada, Sativali, Vasai, near Range Office, Golani Naka, Vasai East, Vasai-Virar, Maharashtra 401208",
+            "Street": "S. No. 22, H. No. 6 & 7, Bhoipada",
+            "Municipality": "Golani Naka, Vasai East, Vasai-Virar",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 72.85426050409684,19.406103352454426]
+            }
+        },
+        {
+            "Name": "Hi-Tech Recycling (I) Pvt. Ltd.",
+            "Fulladdress": "Gat No. 42, P.No. 657, A.P.Bhukum, Tal. Mulshi, Pune, Maharashtra 412115",
+            "Street": "Gat No. 42, P.No. 657, A.P.Bhukum",
+            "Municipality": "Tal. Mulshi, Pune, Maharashtra",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [73.730060113216,18.50210910370234]
+            }
+        },
+        {
+            "Name": "Justdispose Recycling Pvt.Ltd.",
+            "Fulladdress": "Survey No.42/5, Kaddu Industrial Estate, Next to Jasraj Industrial Estate Sativali Phata, Dist, near National Highway 48, Vasai-Virar, Maharashtra 401208",
+            "Street": "Survey No.42/5, Kaddu Industrial Estate",
+            "Municipality": " Next to Jasraj Industrial Estate Sativali Phata, Dist, near National Highway 48, Vasai-Virar",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 72.88220712394202,19.405096408029838]
+            }
+        },
+        {
+            "Name": "Pranam Enterprises",
+            "Fulladdress": "FW4V+Q82, Uruli Devachi, Pune, Maharashtra 412308",
+            "Street": "FW4V+Q82",
+            "Municipality": "Uruli Devachi, Pune",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 73.96317958370851,18.461780442934593]
+            }
+        },
+        {
+            "Name": "Sani Clean Pvt Ltd",
+            "Fulladdress": "N4/153, N4, Block N4, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015",
+            "Street": "N4/153, N4, Block N4",
+            "Municipality": " IRC Village, Nayapalli",
+            "Categories": "Waste management service",
+            "Phone": "06742553844",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 85.8316491941367,20.297349118767062]
+            }
+        },
+        {
+            "Name": "Municipality Dumpyard",
+            "Fulladdress": "W4QX+22W, Parmanandapur, Odisha 766002",
+            "Street": "W4QX+22W",
+            "Municipality": " Parmanandapur, Odisha",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 83.14810057977738,19.93774999676006]
+            }
+        },
+        {
+            "Name": "Cosmic Net",
+            "Fulladdress": "Plot No- B-25, Sahid Nagar, Bhubaneswar, Odisha 751007",
+            "Street": "Plot No- B-25, Sahid Nagar",
+            "Municipality": "Bhubaneswar, Odisha",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 85.84521696444394,20.289966264758622]
+            }
+        },
+        {
+            "Name": "E-Waste Recyclers India",
+            "Address": "A-46, near Crowne Plaza, Pocket C, Okhla Phase I, Okhla, New Delhi, Delhi 110020",
+            "Street": "A-46",
+            "Municipality": "near Crowne Plaza",
+            "Categories": "Recycling center, Corporate office",
+            "Phone": "18001025679",
+            "username": "18001025679",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.2793059, 28.5245577]
+            }
+        },
+
+        {
+            "Name": "Namo eWaste Management Ltd.",
+            "Address": "Mile Stone, Faridabad, 14 1, NH-19, Faridabad, Haryana 121003",
+            "Street": "Mile Stone, Faridabad",
+            "Municipality": "14 1, NH-19",
+            "Categories": "Recycling center",
+            "Phone": "08130393629",
+            "username": "08130393629",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.30769, 28.455841]
+            }
+        },
+
+        {
+            "Name": "Greenzon E-waste Recycler Delhi",
+            "Address": "F 509 Deepali Building Nehru Place New Delhi, New Delhi, Delhi 110019",
+            "Street": "F 509 Deepali Building Nehru Place New Delhi",
+            "Municipality": "New Delhi, Delhi 110019",
+            "Categories": "Waste management service",
+            "Phone": "09811206076",
+            "username": "09811206076",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.2527734, 28.548356599999998]
+            }
+        },
+
+        {
+            "Name": "Techchef Ewaste Solutions Pvt Ltd",
+            "Address": "Top Floor, C-61, DDA Sheds, Pocket A, Okhla Phase I, Okhla Industrial Estate, New Delhi, Delhi 110020",
+            "Street": "Top Floor",
+            "Municipality": "C-61",
+            "Categories": "Waste management service",
+            "Phone": "08178022401",
+            "username": "08178022401",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.2748015, 28.5275635]
+            }
+        },
+
+        {
+            "Name": "Rocket Sales",
+            "Address": "Manjusha Building, 604-A, 6th Floor, 57, Nehru Place, New Delhi, Delhi 110019",
+            "Street": "Manjusha Building",
+            "Municipality": "604-A, 6th Floor, 57",
+            "Categories": "Waste management service",
+            "Phone": "08800575430",
+            "username": "08800575430",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.2522347, 28.548843299999998]
+            }
+        },
+        {
+            "Name": "Hindustan E-waste Management Pvt. Ltd.",
+            "Address": "8, Central Rd, Jangpura, Bhogal, New Delhi, Delhi 110014",
+            "Street": "8, Central Rd",
+            "Municipality": "Jangpura, Bhogal",
+            "Categories": "Waste management service",
+            "Phone": "01141553113",
+            "username": "01141553113",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.24938499999999, 28.583346]
+            }
+        },
+        {
+            "Name": "PRO E Waste Recycling",
+            "Address": "Plot no 32, Gharwali Colony, Sector 4, Ballabhgarh, Faridabad, Haryana 121004",
+            "Street": "Plot no 32",
+            "Municipality": "Gharwali Colony, Sector 4, Ballabhgarh",
+            "Categories": "Recycling center, Consultant, Waste management service",
+            "Phone": "09311208103",
+            "username": "09311208103",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.3266007, 28.3427097]
+            }
+        },
+        {
+            "Name": "Auctus E-Recycling Solutions Pvt. Ltd.",
+            "Address": "A-58 Udyog Kendra 1st, Main Surajpur Road, Habibpur, Noida-Greater Noida Expy, Noida, Uttar Pradesh 201301",
+            "Street": "A-58 Udyog Kendra 1st, Main Surajpur Road, Habibpur",
+            "Municipality": "Noida-Greater Noida Expy",
+            "Categories": "Recycling center",
+            "Phone": "18002701719",
+            "username": "18002701719",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.34056609999999, 28.585401599999997]
+            }
+        },
+        {
+            "Name": "AVV E Waste Reprocess Pvt Ltd - e waste recycling in pan india (deals in all types of electrical waste)",
+            "Address": "11, Nehru Ground, New Industrial Twp 1, New Industrial Township, Faridabad, Haryana 121002",
+            "Street": "11",
+            "Municipality": "Nehru Ground, New Industrial Twp 1, New Industrial Township",
+            "Categories": "Recycling center, Recycling drop-off Location",
+            "Phone": "08178164186",
+            "username": "08178164186",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.3024645, 28.3905916]
+            }
+        },
+        {
+            "Name": "Resource E Waste Solution Pvt Ltd",
+            "Address": "Plot No:- 147, 3rd Floor, Patparganj Industrial Area, Delhi, 110092",
+            "Street": "Plot No:- 147, 3rd Floor",
+            "Municipality": "Patparganj Industrial Area",
+            "Categories": "Waste management service, Used computer store",
+            "Phone": "402735",
+            "username": "402735",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.312752, 28.6402528]
+            }
+        },
+        {
+            "Name": "3R Recycler Pvt. Ltd.",
+            "Fulladdress": "502, 5th Floor, DDA Complex, Distt. Center, Laxmi Nagar, New Delhi, Delhi 110092",
+            "Street": "502, 5th Floor, DDA Complex, Distt. Center",
+            "Municipality": "Laxmi Nagar",
+            "Categories": "Recycling center",
+            "Phone": "01143026362",
+            "username": "01143026362",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.2840125, 28.6397341]
+            }
+        },
+        {
+            "Name": "E Waste Recycle Hub",
+            "Fulladdress": "BK-1/160, 1st Floor, Poorbi Shalimar Bag, Delhi 110088",
+            "Street": "BK-1/160, 1st Floor",
+            "Municipality": "Poorbi Shalimar Bag",
+            "Categories": "Recycling center",
+            "Phone": "1800123005566",
+            "username": "1800123005566",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.1683091, 28.7095125]
+            }
+        },
+        {
+            "Name": "E-Waste Recycling in India",
+            "Fulladdress": "Aneja Complex, R-24, Rita Block, Shakarpur, New Delhi, Delhi 110092",
+            "Street": "Aneja Complex",
+            "Municipality": "R-24, Rita Block",
+            "Categories": "Recycling center",
+            "Phone": "09717393992",
+            "username": "09717393992",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.29225149999999, 28.636220299999998]
+            }
+        },
+        {
+            "Name": "HM WASTE MANAGEMENT PVT. LTD",
+            "Fulladdress": "G- 21 bd chambers, Karol Bagh, New Delhi, Delhi 110005",
+            "Street": "G- 21 bd chambers",
+            "Municipality": "Karol Bagh",
+            "Categories": "Recycling center",
+            "Phone": "09999829648",
+            "username": "09999829648",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.19167639999999, 28.653747199999998]
+            }
+        },
+        {
+            "Name": "Bharat Recycling Pvt Ltd",
+            "Fulladdress": "119/1 Gali No. 19, Main Rd, North Ghonda, Delhi, 110053",
+            "Street": "119/1 Gali No. 19",
+            "Municipality": "Main Rd",
+            "Categories": "Recycling center",
+            "Phone": "09009009817",
+            "username": "09009009817",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.2746976, 28.704548199999998]
+            }
+        },
+        {
+            "Name": "RUDRA ENTERPRISES (E-WASTE RECYCLING , INSULATED COPPER WIRE DISPOSAL, HAZARDOUS WASTE DISPOSAL)",
+            "Fulladdress": "Plot No - A-96, Sector - A4, Tronica City, Upsidc Ind Area, Ghaziabad, Uttar Pradesh 201102",
+            "Street": "Plot No - A-96, Sector - A4, Tronica City, Upsidc Ind Area",
+            "Municipality": "Ghaziabad, Uttar Pradesh 201102",
+            "Categories": "Recycling center",
+            "Phone": "07011460401",
+            "username": "07011460401",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.255464, 28.785546999999998]
+            }
+        },
+        {
+            "Name": "Ecoex",
+            "Fulladdress": "Hansalaya Building, 5C, 5th floor, Barakhamba Rd, New Delhi, Delhi 110001",
+            "Street": "Hansalaya Building, 5C, 5th floor",
+            "Municipality": "Barakhamba Rd",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.2257127, 28.628742499999998]
+            }
+        },
+        {
+            "Name": "Apna Bhoomi Ewaste Management Services",
+            "Fulladdress": "National Highway 16, Kushalapuram, opp. Navabarath Jn, Srikakulam, Andhra Pradesh 532005.",
+            "Street": "National Highway 16, Kushalapuram",
+            "Municipality": " Navabarath Jn, Srikakulam",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 83.86159905745664,18.293794710195897]
+            }
+        },
+        {
+            "Name": "Veera Waste Management Systems",
+            "Fulladdress": "Plot no 42, Block-D IDA, Auto Nagar, Visakhapatnam, Andhra Pradesh 530012.",
+            "Street": "Block-D IDA, Auto Nagar",
+            "Municipality": " Visakhapatnam, Andhra Pradesh",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 83.18677470074287,17.700297067316782]
+            }
+        },
+        {
+            "Name": "56Q7+47Q Borai Industrial Growth Center",
+            "Fulladdress": "56Q7+47Q, Durg Bypass, Vill, Rasamada, Chhattisgarh 491001",
+            "Street": "56Q7+47Q, Durg Bypass, Vill",
+            "Municipality": "Rasamada, Chhattisgarh",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [81.21300609063383,21.187887347436284]
+            }
+        },
+        {
+            "Name": "Star E Processors",
+            "Fulladdress": "Plot No. 1273, Village Baktara, P.O. Godi Tashil Arang, Dist, Raipur, Chhattisgarh 492101",
+            "Street": "56Q7+47Q, Durg Bypass, Vill",
+            "Municipality": "Rasamada, Chhattisgarh",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [81.83054655774723,21.24053744518627]
+            }
+        },
+        {
+            "Name": "Fozia Traders",
+            "Fulladdress": "J Block, Street Number 8, Chauhan Bangur, Delhi 110053",
+            "Street": "J Block, Street Number 8",
+            "Municipality": "Chauhan Bangur, Delhi",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 77.25967804232846,28.675947358554694]
+            }
+        },
+        {
+            "Name": "Muskan technologies E-waste",
+            "Fulladdress": "Pocket B, B-96, Pocket B, Okhla Phase I, Okhla Industrial Estate, New Delhi, Delhi 110020",
+            "Street": "Pocket B, B-96, Pocket B, Okhla Phase I",
+            "Municipality": "Okhla Industrial Estate, New Delhi",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.2818003592333,28.530949003840096]
+            }
+        },
+        {
+            "Name": "Techchef Ewaste Solutions Pvt Ltd",
+            "Fulladdress": "Top Floor, C-61, DDA Sheds, Pocket A, Okhla Phase I, Okhla Industrial Estate, New Delhi, Delhi 110020",
+            "Street": "Top Floor, C-61, DDA Sheds",
+            "Municipality": "Okhla Phase I, Okhla Industrial Estate",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.27475858059677,28.52776142617039]
+            }
+        },
+        {
+            "Name": "Group Tenplus",
+            "Fulladdress": "Beth Shalom Abreovaddo, Saligao, Goa 403511",
+            "Street": "Beth Shalom Abreovaddo",
+            "Municipality": "Saligao, Goa ",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [73.78479067411986,15.539916044543528]
+            }
+        },
+        {
+            "Name": " E-coli Waste Management P. Ltd",
+            "Fulladdress": "M\/s. E-coli Waste Management P. Ltd, Plot No.- 90 TO 92 Sabar Industrial Park Pvt. Ltd Vill- Asal Ta-Bhiloda Dist-Sabar kantha",
+            "Street": " Plot No.- 90 TO 92 Sabar Industrial Park Pvt. Ltd ",
+            "Municipality": "Vill- Asal Ta-Bhiloda ",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 73.31730220805225,23.65745618950322]
+            }
+        },
+        {
+            "Name": " Mangalam ECS Environment",
+            "Fulladdress": "M\/s. Mangalam ECS Environment Ltd, ECS House, 11-12 Garden View, Opp. Auda Garden, Sindhu Bhawan road, Off SG Highway-Pakwan Circle, Bodakdev, Ahmedabad 380054",
+            "Street": " 11-12 Garden View, Opp. Auda Garden ",
+            "Municipality": " Bodakdev, Ahmedabad ",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [72.5145202563712,23.040823000444146]
+            }
+        },
+        {
+            "Name": "E- Process House",
+            "Fulladdress": "M\/s. E-Process House, Plot No. 136\/F-1. 2nd Phase, GIDC, Dist Valsad VAPI 396195",
+            "Street": "Plot No. 136\/F-1",
+            "Municipality": " GIDC, Dist Valsad",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [72.94005768032878,20.36351508105979]
+            }
+        },
+        {
+            "Name": "Recotech E waste Management",
+            "Fulladdress": "4V37+3GW, Naka, GIDC, Sachin, Surat, Gujarat",
+            "Street": "4V37+3GW, Naka",
+            "Municipality": " GIDC, Sachin, Surat",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 72.86417304727321,21.102930166856]
+            }
+        },
+        {
+            "Name": "Honey Disposal Store",
+            "Fulladdress": "Plot No:67-68, Jarout Road, Village:Mandour, area, Ambala, Haryana 134003",
+            "Street": "Jarout Road",
+            "Municipality": "Village:Mandour, area, Ambala",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [76.79719819605236,30.4076857052166]
+            }
+        },
+        {
+            "Name": "Exigo Recycling Pvt. Ltd.",
+            "Fulladdress": "Barsat Rd, Cheema Enclave, Noorwala, Panipat, Azizullapur, Haryana 132103",
+            "Street": "Barsat Rd",
+            "Municipality": "Noorwala, Panipat",
+            "Categories": "Waste management service",
+            "Phone": "09650676997",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 76.9929730113175,29.42618938000852]
+            }
+        },
+        {
+            "Name": "Adinath Recyclotronix Pvt. Ltd. (ARTRONIX)",
+            "Fulladdress": "HSIIDC, Plot # 361, Industrial Estate, HSIIDC, Refinery Rd, Panipat, Razapur, Haryana 132103",
+            "Street": "HSIIDC, Plot # 361",
+            "Municipality": " Refinery Rd, Panipat, Razapur",
+            "Categories": "Waste management service",
+            "Phone": "09896992399",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 76.91668033406386,29.468667195266004]
+            }
+        },
+        {
+            "Name": "MSW Plant Rohtak",
+            "Fulladdress": "VHH3+PMM, Sector-21, Rohtak, Haryana 124001",
+            "Street": " Rohtak, Haryana",
+            "Municipality": " Refinery Rd, Panipat, Razapur",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 76.56086683051572,28.883093849556815]
+            }
+        },
+        {
+            "Name": "VRG Group - Dismentling, Scrap & eWaste",
+            "Fulladdress": "National Highway, opp. Shiv Mandir, Gangayal, Jammu, Jammu and Kashmir 180010",
+            "Street": "National Highway, opp. Shiv Mandir",
+            "Municipality": "  Gangayal, Jammu",
+            "Categories": "Waste management service",
+            "Phone": "09906231115",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 74.8647800085335,32.674527079051636]
+            }
+        },
+        {
+            "Name": "Mr. Bashir Ahmad Mir",
+            "Fulladdress": "M\/s. Bashir Enterprises Noorbagh, Srinagar",
+            "Street": "Bashir Enterprises",
+            "Municipality": " Noorbagh",
+            "Categories": "Waste management service",
+            "Phone": "09906231115",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 74.77007388660925,34.10185514021786]
+            }
+        },
+        {
+            "Name": "SIMRAN INFOTECH",
+            "Fulladdress": "SIMALKURI, Jhalbarda, Jharkhand 828134",
+            "Street": "SIMALKURI",
+            "Municipality": " Jhalbarda, Jharkhand",
+            "Categories": "Waste management service",
+            "Phone": "09906231115",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [86.27697115713745,23.504932151359707]
+            }
+        },
+        {
+            "Name": "Sriram Ecoraksha Computer Services Pvt Ltd",
+            "Fulladdress": "KSSIDC Industrial Estate, B-29, Bommasandra Industrial Area, Bommasandra, Karnataka 560099",
+            "Street": "KSSIDC Industrial Estate, B-29",
+            "Municipality": " Bommasandra, Karnataka",
+            "Categories": "Waste management service",
+            "Phone": "09906231115",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.69801599017295,12.81952606544499]
+            }
+        },
+        {
+            "Name": "E-FRIENDLY WASTE RECYCLERS",
+            "Fulladdress": "1st Main Rd, Metro Lay Out, Nayanda Halli, Bengaluru, Karnataka 560039",
+            "Street": "1st Main Rd, Metro Lay Out",
+            "Municipality": "Nayanda Halli, Bengaluru",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 77.52719103100168,12.946980873862985]
+            }
+        },
+        {
+            "Name": "Ecoglobe E-waste Recyclers",
+            "Fulladdress": "#87, 2nd phase, 2nd Sector, industrial area, Bidadi, Karnataka 562109",
+            "Street": "#87, 2nd phase, 2nd Sector",
+            "Municipality": "Bidadi, Karnataka",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 77.46387799331562,12.799484111390697]
+            }
+        },
+        {
+            "Name": "E Hasiru E Waste Recycling Company",
+            "Fulladdress": "No 168/B, 7th Main Rd, Yeshwanthpur Suburb II Stage, Yesvanpur Surburb, Peenya, Bengaluru, Karnataka 560058",
+            "Street": "No 168/B, 7th Main Rd, Yeshwanthpur Suburb II Stage",
+            "Municipality": "Peenya, Bengaluru",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 77.52950638514334,13.02262885962807]
+            }
+        },
+        {
+            "Name": "Unique Eco Recycle",
+            "Fulladdress": "26, RD Udyog Nagar, Nemawar Rd, behind Reliance petrol pump, Palda, Indore, Madhya Pradesh 452020",
+            "Street": "RD Udyog Nagar, Nemawar Rd",
+            "Municipality": "Palda, Indore",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [75.96875359404328,22.728118464311365]
+            }
+        },
+        {
+            "Name": "Moonstar  Enterprises  Pvt.  Ltd.",
+            "Fulladdress": "M\/s.  Moonstar  Enterprises  Pvt.  Ltd.,  Plot  No. 24\/A, 24\/D, 24\/A-1, 21\/D, 21\/E, 21\/E-1, Sector-B,Sanwer Road, Industrial Area Indore (MP)",
+            "Street": " Sector-B,Sanwer Road",
+            "Municipality": "Industrial Area Indore ",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 75.84741852662084,22.76693227110828]
+            }
+        },
+        {
+            "Name": "Prometheus Recycling Private Limited - Plant",
+            "Fulladdress": "#800 #801, Land No 786/4, 799/1, Dilawar Ka Pura, Susera, Madhya Pradesh 474005",
+            "Street": " Land No 786/4, 799/1",
+            "Municipality": "Dilawar Ka Pura, Susera, Madhya Pradesh",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [78.16852198976812,26.319627610260756]
+            }
+        },
+        {
+            "Name": "Eco Recycling Limited Facility - Eco House",
+            "Fulladdress": "S. No. 22, H. No. 6 & 7, Bhoipada, Sativali, Vasai, near Range Office, Golani Naka, Vasai East, Vasai-Virar, Maharashtra 401208",
+            "Street": "S. No. 22, H. No. 6 & 7, Bhoipada",
+            "Municipality": "Golani Naka, Vasai East, Vasai-Virar",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [72.85426050409684,19.406103352454426]
+            }
+        },
+        {
+            "Name": "Hi-Tech Recycling (I) Pvt. Ltd.",
+            "Fulladdress": "Gat No. 42, P.No. 657, A.P.Bhukum, Tal. Mulshi, Pune, Maharashtra 412115",
+            "Street": "Gat No. 42, P.No. 657, A.P.Bhukum",
+            "Municipality": "Tal. Mulshi, Pune, Maharashtra",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 73.730060113216,18.50210910370234]
+            }
+        },
+        {
+            "Name": "Justdispose Recycling Pvt.Ltd.",
+            "Fulladdress": "Survey No.42/5, Kaddu Industrial Estate, Next to Jasraj Industrial Estate Sativali Phata, Dist, near National Highway 48, Vasai-Virar, Maharashtra 401208",
+            "Street": "Survey No.42/5, Kaddu Industrial Estate",
+            "Municipality": " Next to Jasraj Industrial Estate Sativali Phata, Dist, near National Highway 48, Vasai-Virar",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [72.88220712394202,19.405096408029838]
+            }
+        },
+        {
+            "Name": "Pranam Enterprises",
+            "Fulladdress": "FW4V+Q82, Uruli Devachi, Pune, Maharashtra 412308",
+            "Street": "FW4V+Q82",
+            "Municipality": "Uruli Devachi, Pune",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 73.96317958370851,18.461780442934593]
+            }
+        },
+        {
+            "Name": "Sani Clean Pvt Ltd",
+            "Fulladdress": "N4/153, N4, Block N4, IRC Village, Nayapalli, Bhubaneswar, Odisha 751015",
+            "Street": "N4/153, N4, Block N4",
+            "Municipality": " IRC Village, Nayapalli",
+            "Categories": "Waste management service",
+            "Phone": "06742553844",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [85.8316491941367,20.297349118767062]
+            }
+        },
+        {
+            "Name": "Municipality Dumpyard",
+            "Fulladdress": "W4QX+22W, Parmanandapur, Odisha 766002",
+            "Street": "W4QX+22W",
+            "Municipality": " Parmanandapur, Odisha",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [ 83.14810057977738,19.93774999676006]
+            }
+        },
+        {
+            "Name": "Cosmic Net",
+            "Fulladdress": "Plot No- B-25, Sahid Nagar, Bhubaneswar, Odisha 751007",
+            "Street": "Plot No- B-25, Sahid Nagar",
+            "Municipality": "Bhubaneswar, Odisha",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [85.84521696444394,20.289966264758622]
+            }
+        },
+        {
+            "Name": "Ritik dhiman",
+            "Fulladdress": "Ritik dhiman Teh palampur Distt kangra HP",
+            "Street": "Near police station",
+            "Municipality": "palampur,Himachal Pradesh",
+            "Categories": "Home",
+            "Phone": "07650074480",
+            "username": "07650074480",
+            "Location": {
+                "type": "Point",
+                "coordinates": [76.563870,32.058850]
+            }
+        },
+        {
+            "Name": "Giriraj Metal",
+            "Fulladdress": "M\/s. Giriraj Metal, P. No. 39 HSIIDC, IE, Kutana, Rohtak",
+            "Street": " P. No. 39 HSIIDC, IE, Kutana",
+            "Municipality": " Rohtak",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [76.55238911260702, 28.881523802629182]
+            }
+        },
+        {
+            "Name": "Renu Recycling Company",
+            "Fulladdress": "1257, MIE Part-B, Bahadurgarh, Haryana 124507",
+            "Street": "1257, MIE Part-B",
+            "Municipality": "Bahadurgarh",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [76.95646044937673, 28.683827332257295]
+            }
+        },
+        {
+            "Name": "AMN Ewaste Management Pvt Ltd",
+            "Fulladdress": "Plot no. 171, Sector 59, Faridabad, Haryana 121004",
+            "Street": "Plot no. 171, Sector 59",
+            "Municipality": " Faridabad, Haryana",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.31706728664658,28.31407857053038]
+            }
+        },
+        {
+            "Name": "V.S. Enterprises",
+            "Fulladdress": "Ind Area, Plot no 3, Gazipur Rd, near Kela godown, Nangla Gujran, Faridabad, Haryana 121001",
+            "Street": "Ind Area, Plot no 3",
+            "Municipality": " Faridabad, Haryana",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.26744566053017,28.38063487196548]
+            }
+        },
+        {
+            "Name": "Dotline Informatics Pvt. Limited",
+            "Fulladdress": "CB-153/6, Ring Rd, Block CB, Naraina Village, Naraina, New Delhi, Delhi 110028",
+            "Street": "CB-153/6, Ring Rd, Block CB",
+            "Municipality": " Naraina, New Delhi",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.15933996495136,28.6997624077711]
+            }
+        },
+        {
+            "Name": "E Waste Recycle Hub",
+            "Fulladdress": "A-94/1, opposite CELEBRATION BANQUET, Block A, Wazirpur Industrial Area, Ashok Vihar, Delhi, 110052",
+            "Street": "A-94/1, opposite CELEBRATION BANQUET",
+            "Municipality": " New Delhi",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.18545588365696,28.716885390637042]
+            }
+        },
+        {
+            "Name": "Global Waste Solution, E Waste Collection Point, E Waste Recycler",
+            "Fulladdress": "Plot No. 218, Ground Floor, Naharpur Village Rd, Sector 7, Rohini, Delhi 110085",
+            "Street": "Plot No. 218",
+            "Municipality": "Delhi",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.11576137612467,28.703819864227146]
+            }
+        },
+        {
+            "Name": "SYNERGY RECYCLING SOLUTIONS PVT. LTD.",
+            "Fulladdress": "W5WH+H88, Sonipat, Haryana 131023",
+            "Street": "Plot No. 218",
+            "Municipality": "Sonipat, Haryana",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [77.17882047218735,28.945985969982953] 
+            }
+        },
+        {
+            "Name": "Honey Disposal Store",
+            "Fulladdress": "Plot No:67-68, Jarout Road, Village:Mandour, area, Ambala, Haryana 134003",
+            "Street": "Plot No:67-68",
+            "Municipality": "Ambala, Haryana",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [76.79684985748645,30.4074748196837]
+            }
+        }
+    ]
+}

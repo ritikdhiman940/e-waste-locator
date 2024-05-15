@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>E-Waste Facility Locator</title>
+    <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="https://unpkg.com/mapbox-gl/dist/mapbox-gl.css">
+    <style>
+    body {
+        background-image: url("/assets/img/back.png");
+        background-size: cover;
+        display: block;
+        unicode-bidi: isolate;
+        position: relative;
+        transition: background-image 0.5s ease; /* Add transition */
+    }
+    
+        #map-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        #map {
+            margin-top: 40px;
+            width: 80%;
+            height: 500px;
+            margin-bottom: 100px;
+            border-radius: 0.8rem;
+        }
+
+        .facility-card {
+            background-color: #f0f0f0;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            width: 80%;
+            max-width: 500px;
+            justify-content: flex-start;
+            transition: transform 0.3s ease;
+        }
+
+        .facility-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+        }
+
+        .facility-title {
+            font-size: 20px;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 8px;
+        }
+
+        .facility-description {
+            font-size: 16px;
+            color: #666;
+        }
+
+        .facility-button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin-top: 10px;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .facility-button:hover {
+            background-color: #45a049;
+        }
+        .navbar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: #333;
+            color: white;
+            padding: 10px 20px;
+            
+        }
+
+        .navbar-logo {
+            display: flex;
+            align-items: center;
+        }
+
+        .navbar-logo img {
+            width: 40px; /* Adjust as needed */
+            height: 40px; /* Adjust as needed */
+            margin-right: 10px;
+            object-fit: cover;
+        }
+
+        .home-link {
+            color: white;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+        }
+
+        .home-link img {
+            width: 30px; /* Adjust as needed */
+            height: 30px; /* Adjust as needed */
+            margin-right: 5px;
+        }
+    </style>
+    
+    <script src="https://unpkg.com/mapbox-gl/dist/mapbox-gl.js"></script>
+</head>
+
+<body>
+    <!-- Navbar -->
+<div class="navbar">
+    <!-- Logo -->
+    <div class="navbar-logo">
+        <img src="/assets/img/home.png" alt="Website Logo">
+        <h2 style="color: white">E-Waste Facility Locator</h2>
+    </div>
+    <!-- Home button -->
+    <a href="index.html" class="home-link">
+        <img src="/assets/img/hbtn.png" alt="Home">
+    </a>
+</div>
+
+    <div id="map-container">
+        <div id="map"></div>
+        <div id="facility-cards"></div>
+    </div>
+    <script>
+        mapboxgl.accessToken = 'pk.eyJ1IjoibmlzaGFudDc0MTIiLCJhIjoiY2xtYm42NHI5MWN0ZTNkbzVsdzhkNnl0bSJ9.FXHqQifsNwqwWW3g4qEZgw';
+        const map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/streets-v11',
+            center: [77.2090, 28.6139], // Center of Delhi
+            zoom: 10
+        });
+
+        // Access user's location
+        if (navigator.geolocation) {
+            navigator.geolocation.getCurrentPosition(function (position) {
+                // Fetch facilities data from JSON file
+                fetch('facilities.json')
+                    .then(response => response.json())
+                    .then(data => {
+                        // Process facility data
+                        const facilities = data.facilities;
+
+                        // Rest of your code...
+                        const userLocation = [position.coords.longitude, position.coords.latitude];
+                        map.setCenter(userLocation);
+
+                        // Add user marker
+                        new mapboxgl.Marker()
+                            .setLngLat(userLocation)
+                            .addTo(map);
+
+                        let nearestFacility;
+                        let minDistance = Number.MAX_VALUE;
+
+                        // Iterate through facilities
+                        facilities.forEach(facility => {
+                            // Calculate distance from user
+                            const distance = calculateDistance(userLocation, facility.Location.coordinates);
+                            if (distance < minDistance) {
+                                minDistance = distance;
+                                nearestFacility = facility;
+                            }
+
+                            // Draw marker for each facility
+                            new mapboxgl.Marker()
+                                .setLngLat(facility.Location.coordinates)
+                                .addTo(map);
+                        });
+
+                        // Display details for nearest facility
+                        if (nearestFacility) {
+                            // Make a request to Directions API
+                            const url = `https://api.mapbox.com/directions/v5/mapbox/driving/${userLocation[0]},${userLocation[1]};${nearestFacility.Location.coordinates[0]},${nearestFacility.Location.coordinates[1]}?steps=true&geometries=geojson&access_token=${mapboxgl.accessToken}`;
+
+                            // Fetch route data
+                            fetch(url)
+                                .then(response => response.json())
+                                .then(data => {
+                                    // Extract distance from the response
+                                    const distance = data.routes[0].distance / 1000; // Convert meters to kilometers
+                                    // Display facility details with road distance
+                                    const facilityCard = document.createElement('div');
+                                    facilityCard.classList.add('facility-card');
+                                    facilityCard.innerHTML = `
+                                        <h3>Nearest Facility: ${nearestFacility.Name}</h3>
+                                        <p>${nearestFacility.Address}</p>
+                                        <p>Phone: ${nearestFacility.Phone}</p>
+                                        <p>Distance: ${distance.toFixed(2)} km</p>
+                                    `;
+                                    document.getElementById('facility-cards').appendChild(facilityCard);
+
+                                    // Draw route on map
+                                    map.addLayer({
+                                        id: 'route',
+                                        type: 'line',
+                                        source: {
+                                            type: 'geojson',
+                                            data: {
+                                                type: 'Feature',
+                                                properties: {},
+                                                geometry: data.routes[0].geometry
+                                            }
+                                        },
+                                        layout: {
+                                            'line-join': 'round',
+                                            'line-cap': 'round'
+                                        },
+                                        paint: {
+                                            'line-color': '#3887be',
+                                            'line-width': 5,
+                                            'line-opacity': 0.75
+                                        }
+                                    });
+                                })
+                                .catch(error => console.error('Error fetching route:', error));
+                        }
+                    })
+                    .catch(error => console.error('Error fetching facilities:', error));
+            });
+        } else {
+            console.log('Geolocation is not supported by this browser.');
+        }
+
+        function calculateDistance(coord1, coord2) {
+            const R = 6371; // Radius of the Earth in kilometers
+            const lat1 = coord1[1];
+            const lon1 = coord1[0];
+            const lat2 = coord2[1];
+            const lon2 = coord2[0];
+            const dLat = deg2rad(lat2 - lat1);
+            const dLon = deg2rad(lon2 - lon1);
+            const a =
+                Math.sin(dLat / 2) * Math.sin(dLat / 2) +
+                Math.cos(deg2rad(lat1)) * Math.cos(deg2rad(lat2)) *
+                Math.sin(dLon / 2) * Math.sin(dLon / 2);
+            const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
+            const distance = R * c; // Distance in kilometers
+            return distance;
+        }
+
+        function deg2rad(deg) {
+            return deg * (Math.PI / 180);
+        }
+    </script>
+</body>
+
+</html>
