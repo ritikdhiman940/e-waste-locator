@@ -11,7 +11,7 @@
         <div class="register-details">
             <div class="register-box">
                 <h2>Register</h2>
-                <form id="registerForm" action="#">
+                <form id="registerForm" action="/sign" method="post">
                     <div class="input-box">
                         <span class="icon">
                             <ion-icon name="person"></ion-icon>
@@ -36,7 +36,7 @@
                         <label>Password</label>
                     </div>
                 
-                    <button class="button" type="button" onclick="registerUser()">Register</button>
+                    <button class="button" type="submit">Register</button>
                 
                     <div class="login-link">
                         <p>Already have an account? <a href="/index.html">Login</a></p>
@@ -47,27 +47,5 @@
         </div>
         <div class="image-section"></div>
     </div>
-
-    <script>
-        function registerUser() {
-            // Get input values
-            var username = document.getElementById('username').value;
-            var email = document.getElementById('email').value;
-            var password = document.getElementById('password').value;
-
-            // Create user object
-            var user = {
-                username: username,
-                email: email,
-                password: password
-            };
-
-            // Save user object to local storage
-            localStorage.setItem('user', JSON.stringify(user));
-
-            // Redirect to login page
-            window.location.href = "/index.html";
-        }
-    </script>
 </body>
 </html>
