@@ -1450,6 +1450,45 @@
                 "type": "Point",
                 "coordinates": [76.79684985748645,30.4074748196837]
             }
+        },
+        {
+            "Name": "Chandigarh Pollution Control Committee",
+            "Fulladdress": "Madhya Marg, Near Paryavaran Bhawan, Sector 19B, Sector 19, Chandigarh 160019",
+            "Street": "Plot No:67-68",
+            "Municipality": "Ambala, Haryana",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [76.799040,30.731257]
+            }
+        },
+        {
+            "Name": "Manak Waste Management Private Limited",
+            "Fulladdress": "Plot no C-107, SAS Nagar, Industrial Area, Phase-7, S A S Nagar, Mohali, Chandigarh 160055",
+            "Street": "Plot no C-107",
+            "Municipality": "Chandigarh",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [76.739799,30.667162]
+            }
+        },
+        {
+            "Name": "Green Vortex Waste Management Private Limited",
+            "Fulladdress": "Plot 253, Sector 31, Panchkula, Haryana 134109",
+            "Street": "Plot 253, Sector 31",
+            "Municipality": "Chandigarh",
+            "Categories": "Waste management service",
+            "Phone": "01140346015",
+            "username": "01140346015",
+            "Location": {
+                "type": "Point",
+                "coordinates": [76.838835,30.698979]
+            }
         }
     ]
 }
