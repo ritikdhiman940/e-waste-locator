@@ -2,38 +2,38 @@
     {
         "id": 1,
         "name": "Mobile",
-        "price": 520,
+        "price": "Estimated",
         "image": "images/1.webp"
     },
     {
         "id": 2,
         "name": "Fridge",
-        "price": 220,
+        "price": "Estimated",
         "image": "images/2.webp"
     },
     {
         "id": 3,
         "name": "HeadPhone",
-        "price": 250,
+        "price": "Estimated",
         "image": "images/3.webp"
     }
     ,
     {
         "id": 4,
         "name": "Washing Machine",
-        "price": 420,
+        "price": "Estimated",
         "image": "images/4.webp"
     },
     {
         "id": 5,
         "name": "Laptop",
-        "price": 120,
+        "price": "Estimated",
         "image": "images/5.webp"
     },
     {
         "id": 6,
         "name": "PS-5",
-        "price": 120,
+        "price": "Estimated",
         "image": "images/6.webp"
     }
 ]
